@@ -1,0 +1,13 @@
+name: priklad
+type: theme
+description: 'Example theme'
+core_version_requirement: ^9
+libraries:
+  - priklad/global-styling
+base theme: classy
+regions:
+  header: Header
+  content: 'Main content'
+  sidebar_second: 'Right sidebar'
+  bottom_content: 'Bottom content'
+  footer: Footer
